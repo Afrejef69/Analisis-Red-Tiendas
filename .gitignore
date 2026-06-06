@@ -1,0 +1,12 @@
+# Entorno virtual
+myenv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# vs Code
+.vscode/
